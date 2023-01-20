@@ -69,7 +69,7 @@ else
 echo El número está fuera del rango 0-1999.No se realizara conversión
 fi
 else 
-echo No es un entero
+echo No es un numero entero
 
 
 
